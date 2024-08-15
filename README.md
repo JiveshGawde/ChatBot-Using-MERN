@@ -1,12 +1,1 @@
-Hello, Hope everything is working fine 😅
-
-# Check appropriate branches.
-Check appropriate branches where you need to find the code.
-
-# Starting project 
-Includes base project template for NodeJs, MongoDB, Typescript and Lint
-
-# Final
-Includes final code. 😃
-
-Feel Free to share any doubts or corrections.
+Hello This is my first Attempt at creating fully functional backend integrated AI chatbot using MERN Stack and GPT 3.5 model.
